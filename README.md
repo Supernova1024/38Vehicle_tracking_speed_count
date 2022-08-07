@@ -1,4 +1,20 @@
-# Object Tracking using YOLOv3, Deep Sort and Tensorflow
+# Vehicle Traffic Monitoring
+
+#### Features
+
+```bash
+- Vehicle Detection
+- Vehicle Tracking
+- Speed Estimation
+- Vehicle Counting based on moving direction
+- Filtering Stationary Vehicles
+- Export center coords of vehicles per frame to CSV
+```
+
+![](https://github.com/topcoder20022/OCR-PDF-TABLE/blob/master/result.png)
+
+You can find the Result Video in the below link
+https://drive.google.com/drive/folders/1-fLKu9fCcXIxvXnQMiHlHK5G9Uy2v9XS?usp=sharing
 
 ## Getting started
 
