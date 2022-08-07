@@ -4,6 +4,7 @@
 
 ```bash
 - Vehicle Detection
+- Vehicle Classification
 - Vehicle Tracking
 - Speed Estimation
 - Vehicle Counting based on moving direction
