@@ -14,7 +14,7 @@
 
 ![](https://github.com/Supernova1024/Vehicle_tracking_speed_count/blob/main/result.PNG)
 
-#### Features
+#### Result Video
 https://drive.google.com/drive/folders/1-fLKu9fCcXIxvXnQMiHlHK5G9Uy2v9XS?usp=sharing
 
 ## Getting started
